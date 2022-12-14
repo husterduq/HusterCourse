@@ -1,7 +1,23 @@
 ---
-title: "HusterCourses"
+title: "Huster Courses"
 ---
 
-This is a Quarto website.
+This web sites documents and archives the courses taught by Michael Huster 
+for the Duquesne University Physics Department. 
+
+My teaching load for the last couple of years has been:
+
+### Fall
+- [PHYS 211L](GAP1/gap1.qmd), GAP 1 Lab, three or four sections
+- PHYS 312, Optics Lab, one or two sections
+- EQ 137, Why Would Anyone Become a Scientist? (Added 2022)
+
+### Spring
+- PHYS 212L, GAP 2 Lab, three sections
+- PHYS 464, Advanced Lab, one section
+- EQ 137, Why Would Anyone Become a Scientist? (To be added 2023)
+
+There is a link in the navbar for the materials for each of these 
+courses.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

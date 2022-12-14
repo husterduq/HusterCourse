@@ -1,14 +1,18 @@
 project:
   type: website
+  resources: 
+    - "*.pdf"
+
 
 website:
   title: "HusterCourses"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+  favicon: NLFavicon.png
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 1
+    contents: auto
+    
 format:
   html:
     theme: cosmo
