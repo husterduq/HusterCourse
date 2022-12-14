@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-I am using this site to document my courses. It has all of the 
-document source files for the course and other files i use.
-
-See [More About](more-about.ipynb)
-
