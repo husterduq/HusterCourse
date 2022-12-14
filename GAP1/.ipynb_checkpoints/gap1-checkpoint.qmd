@@ -1,0 +1,14 @@
+# PHYS 211L - GAP 1 Lab
+GAP stands for **G**eneral **A**analytical **P**hysics. 
+It is a calculus-based introductory physics course.
+
+## Before 2020
+Before AY (Academic Year) 2019-2020 I used 
+[Vernier LabQuest2's](https://www.vernier.com/product/labquest-2/)
+and various sensors for the lab. The materials for the last year 
+I used the LabQuests is [here](../GAP1Vernier/GAP1Vernier.qmd)
+
+# 2022 - Present
+In response to the need to provide for remote instruction, I switched 
+to the [iOLab](https://iolab.science). The materials for this course 
+is in this folder.

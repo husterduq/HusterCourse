@@ -1,0 +1,18 @@
+---
+title: "Prof Huster's Interests"
+---
+
+I have always been drawn to hands-on science. 
+I love designing and building gadgets, devices, and experiments. 
+About ten years ago a remarkable development started happening: 
+the *Maker Movement*. This movement was enabled and spurred on by 
+the development of cheap, accessible microcontrollers. The first 
+wildly popular one was the Arduino Uno. 
+
+For the first time non-specialists could build hardware and program 
+the microcontrollers. The language was C++ and the Arduino people 
+developed a simple IDE (**I**tegrated **D**evelopment **E**nvironment). 
+
+From this beginning, the movement exploded. Now microcontrollers are 
+very fast and can be programmed in python, an interactive programming 
+language that is very widely used in many industries.

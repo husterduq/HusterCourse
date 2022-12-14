@@ -1,0 +1,10 @@
+# Curriculum Up to 2019
+
+I have been strongly influenced by the *Modeling Physics* approach 
+to teaching physics, and the physics education research of [Eugenia Etkina](https://gse.rutgers.edu/faculty/eugenia-etkina/) who developed the 
+[ISLE](http://www.islephysics.net/) 
+(Investigative Science Learning Environment) curriculum.
+
+## Documents
+- [Syllabus](GAP1 Lab Syllabus 19b.pdf)
+- [Lab 01 Investigating Motion](Lab01-Representing Motion 19a.pdf)
